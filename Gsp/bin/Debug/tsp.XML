@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tsp</name>
+    </assembly>
+    <members>
+        <member name="F:Tsp.GspForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Tsp.GspForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Tsp.GspForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Tsp.Properties.Resources">
+            <summary>
+              Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+            </summary>
+        </member>
+        <member name="P:Tsp.Properties.Resources.ResourceManager">
+            <summary>
+              Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+            </summary>
+        </member>
+        <member name="P:Tsp.Properties.Resources.Culture">
+            <summary>
+              Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+              CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+            </summary>
+        </member>
+    </members>
+</doc>
